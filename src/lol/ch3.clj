@@ -4,6 +4,7 @@
 
 ;; Random function, can be considered as a list of nested lists
 (defn square [n]
+  "Gives a square of passed argument"
   (* n n))
 
 
